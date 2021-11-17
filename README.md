@@ -11,3 +11,4 @@
 11. git checkout [branch_name] - сменяет активную ветку
 12. git pull [rep_link] [branch_name] - обновляет ветку в локальном репозитории из github
 13. git branch -d [branch_name] - удаляет ветку в локальном репозитории
+14. git merge [branch_name] - объединяет текущей ветку с указанной branch_name
