@@ -9,3 +9,5 @@
 9. git branch - показывает все созданные ветки (зеленым отмечает активная)
 10. git branch [branch_name] - создает новую ветку
 11. git checkout [branch_name] - сменяет активную ветку
+12. git pull [rep_link] [branch_name] - обновляет ветку в локальном репозитории из github
+13. git branch -d [branch_name] - удаляет ветку в локальном репозитории
